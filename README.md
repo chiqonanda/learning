@@ -233,3 +233,21 @@ Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan. Bebas digunakan
 ---
 
 > Dibangun dengan ❤️ menggunakan **Laravel** & **Tailwind CSS**
+
+## Dokumentasi
+
+#### Beranda 
+
+<img width="1536" height="777" alt="image" src="https://github.com/user-attachments/assets/42602c43-fbd1-475c-92c2-b46012565aeb" />
+
+#### Produk 
+
+<img width="1536" height="772" alt="image" src="https://github.com/user-attachments/assets/27dbe00c-3b56-44fa-b191-925c5f2c3856" />
+
+#### Tentang
+
+<img width="1536" height="771" alt="image" src="https://github.com/user-attachments/assets/abb5e6cf-c8d3-44a7-bc85-34dfcdc0111c" />
+
+#### API JSON
+
+<img width="1473" height="108" alt="image" src="https://github.com/user-attachments/assets/7d23dc62-4094-46dc-a81b-0b6f45a8d997" />
